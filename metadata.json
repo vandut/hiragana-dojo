@@ -1,0 +1,5 @@
+{
+  "name": "Hiragana Dojo AI",
+  "description": "A focused Japanese reading practice app that generates Hiragana sentences based on your known Romaji vocabulary using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
